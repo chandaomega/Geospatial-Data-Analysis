@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+    <description>Convex_Hull</description>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark id="Path_Coordinates">
+        <name>USC_PATH</name>
+        <LineString>
+            <coordinates>
+-118.2866371,34.0198976,2357
+-118.2890986,34.0218171,2357
+-118.2887588,34.0239959,2357
+-118.2877316,34.026213,2357
+-118.2850026,34.0248226,2357
+-118.2813486,34.0202903,2357
+-118.2866371,34.0198976,2357
+            </coordinates>
+        </LineString>
+    </Placemark>
+    
+  <Placemark>
+    <name>TaperHall</name>
+    <description>It is a classroom and a college academic building.</description>
+ <styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2868942,34.0240505, 2357</coordinates>
+    </Point>
+  </Placemark>
+ 
+  <Placemark>
+    <name>HermanOstrov</name>
+    <description>The dental school of the University of Southern California.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2871447,34.0241408, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+    <Placemark>
+    <name>AquaticCenter</name>
+    <description>A 2,500-seat outdoor aquatics venue located on the campus of the University of Southern California.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2887588,34.0239959, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+    <Placemark>
+    <name>USCVillage</name>
+    <description>It’s the perfect lifestyle center for locals, visitors, and the USC community.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2839064,34.0225343, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+      <Placemark>
+    <name>HallofFameWalk</name>
+    <description>The beautiful hallway consisting of placards of celebrated athletes.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2882696,34.0231237, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+<Placemark>
+    <name>SGM</name>
+    <description>Seeley G. Mudd Building (SGM), College Science Building and College Classroom</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2890986,34.0218171, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>RonaldTutorCent</name>
+    <description>The Ronald Tutor Campus Center is home to over twenty meeting and event spaces.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2866371,34.0198976, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+    <Placemark>
+    <name>BookStore</name>
+    <description>Find exclusive USC gear, gifts and apparel for every fan at USC Bookstores.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2864612,34.0202207, 2357</coordinates>
+    </Point>
+  </Placemark>
+
+     <Placemark>
+    <name>IntPubAffairs</name>
+    <description>The Center for International and Public Affairs houses the USC College's School of International Relations, Department of Anthropology, Department of Art History and Department of Political Science as well as the USC Office of Globalization and Center Library for Applied Social Sciences</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2860998,34.0207405, 2357</coordinates>
+    </Point>
+  </Placemark> 
+
+<Placemark>
+    <name>LeavyLib</name>
+    <description>The Thomas and Dorothy Leavey Library is one of the two main undergraduate libraries at the University of Southern California, United States.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2845618,34.0210962, 2357</coordinates>
+    </Point>
+  </Placemark> 
+
+<Placemark>
+    <name>SOLSchOfPubPol</name>
+    <description>The USC Sol Price School of Public Policy, previously known as School of Policy, Planning, and Development, is the public policy school of the University of Southern California</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2813486,34.0202903, 2357</coordinates>
+    </Point>
+  </Placemark> 
+
+<Placemark>
+    <name>VillageTarget</name>
+    <description>The Target at USC Village, provides a perfect lifestyle center for locals, visitors, and the USC community.</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2850026,34.0248226, 2357</coordinates>
+    </Point>
+  </Placemark> 
+
+<Placemark>
+    <name>Home</name>
+    <description>Home Sweet Home</description>
+<styleUrl>#z1</styleUrl><Point>
+      <coordinates>-118.2877316,34.026213, 2357</coordinates>
+    </Point>
+  </Placemark> 
+
+</Document>
+ 
+</kml>
